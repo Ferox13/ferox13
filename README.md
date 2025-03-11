@@ -118,3 +118,21 @@ feroxtv@gmail.com
 <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white"></a>
 
 </p>
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ferox13">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ferox13&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ferox13&layout=compact&langs_count=8&theme=algolia"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ferox13&theme=radical" alt="profile detail" />
+</a>
+</p>
+
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ferox13&theme=radical">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ferox13&theme=radical">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ferox13&theme=radical">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ferox13&theme=radical&utcOffset=1">
+</p>
+
