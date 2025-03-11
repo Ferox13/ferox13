@@ -135,4 +135,21 @@ feroxtv@gmail.com
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ferox13&theme=radical">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ferox13&theme=radical&utcOffset=1">
 </p>
+<hr>
+
+<h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"><span style="font-size: 30px"> For More Information, Please Check Out or Connect Me Via</span></h2>
+<p align="center">
+  <a href="https://github.com/ferox13" target="_blank">
+    <img align="center" alt="ferox13 | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/fernando-rodr%C3%ADguez-509200117/" target="_blank">
+    <img align="center" alt="ferox13 | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+<p> 
+<div align="center">
+  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+  &copy; 2025 ferox13
+</div>
+
+
 
