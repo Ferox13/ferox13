@@ -118,7 +118,7 @@ feroxtv@gmail.com
 <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white"></a>
 
 </p>
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/ferox13">
